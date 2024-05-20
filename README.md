@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Nick Caplinger</h1>
   <div>
-    <p>Backend engineer</p>
+    <p>Full stack engineer</p>
     <p>Video game industry veteran</p>
   </div>
   <p>Contact me on LinkedIn!</p>
